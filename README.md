@@ -55,3 +55,11 @@ Logistic regression runs rather faster than other methods and is easy to intepre
         
         Confusion matrix: [[ 3434  2206]
                            [  999 32762]]
+
+# 5. Further work
+
+- Collecting more data
+
+- Turning hyperparameters for our models. We use default for all models
+
+- Use more deep networks
