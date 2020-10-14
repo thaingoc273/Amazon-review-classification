@@ -56,7 +56,7 @@ Logistic regression runs rather faster than other methods and is easy to intepre
         Confusion matrix: [[ 3434  2206]
                            [  999 32762]]
 
-# 5. Further work
+# 5. Future work
 
 - Collecting more data
 
