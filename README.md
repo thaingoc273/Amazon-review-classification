@@ -42,3 +42,16 @@ Logistic regression runs rather faster than other methods and is easy to intepre
          Recall: 0.7651000194212468
 
          Precision: 0.8804335679964241
+
+- Results for Long Short Term Memory network
+
+        Accuracy of the model :  0.9186568868810436
+        
+        F1-score:  0.6818226943313809
+        
+        Recall: 0.6088652482269503
+        
+        Precision: 0.774644710128581
+        
+        Confusion matrix: [[ 3434  2206]
+                           [  999 32762]]
