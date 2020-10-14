@@ -35,7 +35,7 @@ Logistic regression runs rather faster than other methods and is easy to intepre
          Model Test Accuracy: 0.9508985743839453
 
          Confusion matrix [[ 15758   4838]
-          [  2140 119378]]
+                           [  2140 119378]]
 
          F1 Score: 0.818724996103289
 
